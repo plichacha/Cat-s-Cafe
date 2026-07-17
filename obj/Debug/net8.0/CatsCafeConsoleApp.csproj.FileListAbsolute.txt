@@ -1,0 +1,14 @@
+C:\Users\valen\Desktop\CatsCafeConsoleApp\obj\Debug\net8.0\CatsCafeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\Desktop\CatsCafeConsoleApp\obj\Debug\net8.0\CatsCafeConsoleApp.AssemblyInfoInputs.cache
+C:\Users\valen\Desktop\CatsCafeConsoleApp\obj\Debug\net8.0\CatsCafeConsoleApp.AssemblyInfo.cs
+C:\Users\valen\Desktop\CatsCafeConsoleApp\obj\Debug\net8.0\CatsCafeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\CatsCafeConsoleApp\bin\Debug\net8.0\CatsCafeConsoleApp.exe
+C:\Users\valen\Desktop\CatsCafeConsoleApp\bin\Debug\net8.0\CatsCafeConsoleApp.deps.json
+C:\Users\valen\Desktop\CatsCafeConsoleApp\bin\Debug\net8.0\CatsCafeConsoleApp.runtimeconfig.json
+C:\Users\valen\Desktop\CatsCafeConsoleApp\bin\Debug\net8.0\CatsCafeConsoleApp.dll
+C:\Users\valen\Desktop\CatsCafeConsoleApp\bin\Debug\net8.0\CatsCafeConsoleApp.pdb
+C:\Users\valen\Desktop\CatsCafeConsoleApp\obj\Debug\net8.0\CatsCafeConsoleApp.dll
+C:\Users\valen\Desktop\CatsCafeConsoleApp\obj\Debug\net8.0\refint\CatsCafeConsoleApp.dll
+C:\Users\valen\Desktop\CatsCafeConsoleApp\obj\Debug\net8.0\CatsCafeConsoleApp.pdb
+C:\Users\valen\Desktop\CatsCafeConsoleApp\obj\Debug\net8.0\CatsCafeConsoleApp.genruntimeconfig.cache
+C:\Users\valen\Desktop\CatsCafeConsoleApp\obj\Debug\net8.0\ref\CatsCafeConsoleApp.dll
