@@ -54,7 +54,7 @@ README.md
 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/plichacha/Cat-s-Cafe.git
 ```
 
 2. Open the project in Visual Studio.
