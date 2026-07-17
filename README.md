@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-# Cat's Cafe - консольний застосунок
-
-Один файл `Program.cs` - уся програма, без окремих бібліотек чи проєктів.
-
-## Функціонал
-1. Додати страву (опис 3-20 символів, ціна > 0)
-2. Видалити страву за номером
-3. Додати чайові: відсоток / фіксована сума / без чайових
-4. Показати рахунок (Net Total, Tip Amount, GST Amount, Total Amount; GST = 5%)
-5. Очистити замовлення
-6. Зберегти замовлення у файл (CSV: `Опис,Ціна`)
-7. Завантажити замовлення з файлу
-0. Вихід
-
-Максимум 5 страв у замовленні - після досягнення ліміту пункт "Add Item" одразу
-повідомляє про це і не питає ні опис, ні ціну.
-
-## Запуск
-```bash
-dotnet run
-```
-Потрібен .NET SDK 8.0.
-=======
 # Cat's Cafe Billing System
 
 Console application written in C# for creating and managing café bills.
@@ -131,13 +107,12 @@ This project demonstrates:
 
 ## Author
 
-**Нестерук Ірина**
+**Nesteruk Iryna**
 
-Group: **611П**
+Group: **611p**
 
 ---
 
 ## License
 
 This project was created for educational purposes.
->>>>>>> 64b4bbf65dadeed5ec973a989fff0a5799fde26f
